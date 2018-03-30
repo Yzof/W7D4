@@ -1,4 +1,2 @@
-module.exports.context	/Users/appacademy/Desktop/W7D3/Pokeman1/webpack.config.js	/^module.exports = {$/;"	property	line:3
-module.exports.entry	/Users/appacademy/Desktop/W7D3/Pokeman1/webpack.config.js	/^  context: __dirname,$/;"	property	line:4
-module.exports.output	/Users/appacademy/Desktop/W7D3/Pokeman1/webpack.config.js	/^  entry: '.\/frontend\/pokedex.jsx',$/;"	property	line:5
-switch	/Users/appacademy/Desktop/W7D3/Pokeman1/frontend/reducers/pokemon_reducer.js	/^  switch (action.type) {$/;"	function	line:5
+switch	/Users/appacademy/Desktop/W7D3/Pokeman1/frontend/reducers/pokemon_reducer.js	/^  switch (action.type) {$/;"	function	line:6
+switch	/Users/appacademy/Desktop/W7D3/Pokeman1/frontend/reducers/pokemon_reducer.js	/^  switch (action.type) {$/;"	function	line:6
